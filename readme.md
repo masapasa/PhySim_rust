@@ -1,5 +1,7 @@
 The simulation uses the vorticity-streamfunction formulation for the 2D incompressible Navier-Stokes equations coupled with a heat transport equation. This is a standard and effective method for this type of problem.
 
+![arcitecture](rst_pinn.png)
+
 ### 1. Project Structure
 
 Your project will look like this:
